@@ -3,4 +3,7 @@
 Here's the link to install pyaudio https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 
 pip install https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
-or pip install pyaudio
+
+or 
+
+pip install pyaudio
