@@ -2,7 +2,7 @@
 
 Here's the link to install pyaudio https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 
-pip install https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+then pip install PyAudio‑0.2.11‑cp38‑cp38‑win_amd64.whl (for 64-bit Windows and Python 3.8)
 
 or 
 
