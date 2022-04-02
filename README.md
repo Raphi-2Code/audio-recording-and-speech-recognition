@@ -7,3 +7,5 @@ then pip install PyAudio‑0.2.11‑cp38‑cp38‑win_amd64.whl (for 64-bit Wind
 or 
 
 pip install pyaudio
+
+pip install speech_recognition for the speech_recognition module
